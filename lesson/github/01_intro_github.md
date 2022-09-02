@@ -39,15 +39,24 @@ By learning a few more annotation rules, we can have bulleted lists, numbered li
 
 #### Lesson Steps 
 
-1. [Sign up for an account](https://github.com/signup)
-2. Login 
-3. Looking at a few GitHub Account / Settings
-4. Creating a Repository (public / private)
-5. Adding a `README.md` file to your own repository
-6. Contributing a PR to a repository [git-collaboration](https://github.com/jduckles/git-collaboration)
-7. Fork / submit change / create pull request / wait for PR to be reviewed
-8. Show contributions, talk about merging them into the main repository
-9. We can do the same with the [rac-guide](https://github.com/govzeroaotearoa/rac-guide)
+- [Sign up for an account](https://github.com/signup)
+  - Choose a username you want to be identified with, it will be the handle by which others you collaborate with will find you.
+- Login 
+- Looking at a few GitHub Account / Settings
+    -  [Profile](https://github.com/settings/profile) – your public face on GitHub, others might check it to figure out who you are. Pays to spend a bit of work on it.
+    -  [Billing](https://github.com/settings/billing) – GitHub is a business, for $4.00 per month you can get some benefits, but you absolutely don't need to pay for it.
+    -  [Organizations](https://github.com/settings/organizations) – are special GitHub accounts that can be owned by multiple people. Great for managing group projects. Also great when you back-away from a project so others can own/control it.
+- Creating a Repository (public / private)
+   - To create a repository [go here](https://github.com/new)
+    - give your repository a name – `learning-git` maybe
+    - click "Public" 
+    - click "Add a README file" 
+    - click "Create repository"
+- Adding a `README.md` file to your own repository
+- Contributing a PR to a repository [git-collaboration](https://github.com/jduckles/git-collaboration)
+- Fork / submit change / create pull request / wait for PR to be reviewed
+- Show contributions, talk about merging them into the main repository
+- We can do the same with the [rac-guide](https://github.com/govzeroaotearoa/rac-guide)
 
 #### Resources 
 
